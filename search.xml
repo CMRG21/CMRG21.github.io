@@ -4,6 +4,50 @@
   
     
     <entry>
+      <title>演示</title>
+      <link href="/2024/12/10/code_example/%E6%BC%94%E7%A4%BA/"/>
+      <url>/2024/12/10/code_example/%E6%BC%94%E7%A4%BA/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;hello hexo&quot;</span>);</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> programming_articles </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> codes </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>archives</title>
+      <link href="/2024/12/09/archives/"/>
+      <url>/2024/12/09/archives/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> archive </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>My New Post</title>
       <link href="/2024/12/04/My-New-Post/"/>
       <url>/2024/12/04/My-New-Post/</url>
@@ -11,6 +55,12 @@
         <content type="html"><![CDATA[<h2 id="ToDo-List"><a href="#ToDo-List" class="headerlink" title="ToDo List"></a>ToDo List</h2><ul><li>研究怎么让图片正确显示</li><li>在首页不显示文章</li><li>在肩部菜单, 下拉菜单&#x2F;点击进入的菜单中显示文章分类</li><li>点进文章分类后, 有文章列表</li><li></li></ul>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> post </tag>
+            
+        </tags>
       
     </entry>
     
